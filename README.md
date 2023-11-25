@@ -2,7 +2,8 @@
 #### Technical Skills: Python, MatLab, learning SQL
 
 ### Education
-B.S. Applied Mathematics, Applied Sciences and Engineering minor UNC Chapel Hill
+UNC Chapel Hill 2022-2026
+B.S. Applied Mathematics, Applied Sciences and Engineering minor
 
 ### Work Experience
 Undergraduate Research Assistant @ McAlister Heart Institute, Griffith Lab
@@ -11,9 +12,13 @@ Undergraduate Research Assistant @ McAlister Heart Institute, Griffith Lab
 
 ### Projects
 Slot Machine
+...
 
 Password Generator
+...
 
 Protein Data Bank
+...
 
 NC River Data
+...
