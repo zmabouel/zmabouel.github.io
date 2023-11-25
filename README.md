@@ -1,4 +1,5 @@
 # 2nd year University Student
+#### Technical Skills: Python, MatLab, learning SQL
 
 ### Education
 Applied Mathematics, B.S.
