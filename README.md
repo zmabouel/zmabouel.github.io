@@ -2,7 +2,7 @@
 #### Technical Skills: Python, MatLab, learning SQL
 
 ### Education
-UNC Chapel Hill 2022-2026
+#### UNC Chapel Hill 2022-2026
 B.S. Applied Mathematics, Applied Sciences and Engineering minor
 
 ### Work Experience
@@ -12,10 +12,10 @@ Undergraduate Research Assistant @ McAlister Heart Institute, Griffith Lab
 
 ### Projects
 Slot Machine
-... [slot](https://github.com/zmabouel/zmabouel.github.io/blob/main/Slot%20Machine.py)
+... [slot_machine](https://github.com/zmabouel/zmabouel.github.io/blob/main/Slot%20Machine.py)
 
 Password Generator
-...
+... [pwd_generator] (https://github.com/zmabouel/zmabouel.github.io/blob/main/pwd%20generator.py)
 
 Protein Data Bank
 ...
