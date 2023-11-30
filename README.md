@@ -12,7 +12,7 @@ Undergraduate Research Assistant @ McAlister Heart Institute, Griffith Lab
 
 ### Projects
 Slot Machine
-...
+... [slot](https://github.com/zmabouel/zmabouel.github.io/blob/main/Slot%20Machine.py)
 
 Password Generator
 ...
