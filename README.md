@@ -1,5 +1,5 @@
-# 2nd year University Student
-#### Technical Skills: Python, MatLab, learning SQL
+# 2nd Year University Student
+#### Technical Skills: Python, MatLab, HTML/CSS, JavaScript
 
 ### Education
 #### UNC Chapel Hill 2022-2026
