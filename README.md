@@ -1,4 +1,4 @@
-# 3rd Year Chemistry Student
+# 3rd year Chemistry Student
 
 ### Education
 #### UNC Chapel Hill Expected Graduation: 2026
