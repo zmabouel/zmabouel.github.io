@@ -1,9 +1,8 @@
-# 2nd Year University Student
-#### Technical Skills: Python, MatLab, HTML/CSS, JavaScript
+# 3rd Year Chemistry Student
 
 ### Education
-#### UNC Chapel Hill 2022-2026
-B.S. Applied Mathematics, Applied Sciences and Engineering minor
+#### UNC Chapel Hill Expected Graduation: 2026
+B.A. Chemsitry, Minor in Applied Sciences and Engineering
 
 ### Work Experience
 Undergraduate Research Assistant @ McAlister Heart Institute, Griffith Lab
